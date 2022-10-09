@@ -3,5 +3,17 @@ body {
 }
 
 h1 {
+    font-family: 'Tahoma', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center {
+    text-align: center;
 }
